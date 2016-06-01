@@ -5,3 +5,5 @@ oat2
 eakkawin
 eakkawin2
 
+
+pang pang2
